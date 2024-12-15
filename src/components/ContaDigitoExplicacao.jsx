@@ -1,5 +1,5 @@
-﻿import React, { useState } from "react";
-import { CreditCard } from "lucide-react";
+import React, { useState } from "react";
+import { Bank } from "lucide-react";
 
 const ContaDigitoExplicacao = () => {
   const [mostrarExplicacaoAgencia, setMostrarExplicacaoAgencia] = useState(false);
@@ -18,7 +18,7 @@ const ContaDigitoExplicacao = () => {
         <div className="space-y-6">
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
-              <CreditCard className="h-6 w-6" />
+              <Bank className="h-6 w-6" />
               <span className="text-lg font-bold">Banco Exemplo</span>
             </div>
           </div>
