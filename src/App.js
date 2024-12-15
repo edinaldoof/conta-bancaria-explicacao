@@ -1,4 +1,4 @@
-import ContaDigitoExplicacao from './components/ContaDigitoExplicacao';
+﻿import ContaDigitoExplicacao from './components/ContaDigitoExplicacao';
 
 function App() {
   return (
