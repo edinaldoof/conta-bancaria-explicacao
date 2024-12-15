@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/conta-bancaria-explicacao/static/css/main.53ba157f.css",
-    "main.js": "/conta-bancaria-explicacao/static/js/main.b459d070.js",
+    "main.js": "/conta-bancaria-explicacao/static/js/main.28c9ed4e.js",
     "static/js/488.26844e8d.chunk.js": "/conta-bancaria-explicacao/static/js/488.26844e8d.chunk.js",
     "index.html": "/conta-bancaria-explicacao/index.html",
     "main.53ba157f.css.map": "/conta-bancaria-explicacao/static/css/main.53ba157f.css.map",
-    "main.b459d070.js.map": "/conta-bancaria-explicacao/static/js/main.b459d070.js.map",
+    "main.28c9ed4e.js.map": "/conta-bancaria-explicacao/static/js/main.28c9ed4e.js.map",
     "488.26844e8d.chunk.js.map": "/conta-bancaria-explicacao/static/js/488.26844e8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53ba157f.css",
-    "static/js/main.b459d070.js"
+    "static/js/main.28c9ed4e.js"
   ]
 }
